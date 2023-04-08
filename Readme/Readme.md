@@ -14,8 +14,11 @@ additional components, including the Android SDK. Be patient, because this proce
 time, depending on your internet speed. When the installation completes, Android Studio starts, and 
 you are ready to create your first project.
 
-Once installed, click on "New Project." Then click on "No Activity." Rename your application to your 
-preference, preferably something related to the project. Change the language to "Java." Click "Finish."
+Once installed
+1. Click on "New Project."
+2. Click on "No Activity." 
+3. Rename your application to your preference, preferably something related to the project. 
+4. Change the language to "Java." Click "Finish."
 Wait for your android studio to load. Look at the bottom right corner [Image 1](load.png) and wait for it to finish loading.
 The bottom left side should display "Gradle Sync Finished" [Image 2](GradleSync.png)
 Then move onto the next step. 
