@@ -12,8 +12,7 @@ Android Studio. Accept the default configurations for all steps, and ensure that
 selected for installation. After the install is complete, the setup wizard downloads and installs 
 additional components, including the Android SDK. Be patient, because this process might take some 
 time, depending on your internet speed. When the installation completes, Android Studio starts, and 
-you are ready to create your first project. hello
-
+you are ready to create your first project.
 ## Cloning From Github
 Follow this link [How to Clone Android Project from GitHub in Android Studio?](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
 To have your own copy of the repository on your device. Once you have finished the steps, you may begin coding/designing.
