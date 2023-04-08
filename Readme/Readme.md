@@ -13,6 +13,12 @@ selected for installation. After the install is complete, the setup wizard downl
 additional components, including the Android SDK. Be patient, because this process might take some 
 time, depending on your internet speed. When the installation completes, Android Studio starts, and 
 you are ready to create your first project.
+
+Once installed, click on "New Project." Then click on "No Activity." Rename your application to your 
+preference, preferably something related to the project. Change the language to "Java." Click "Finish."
+Wait for your android studio to load. Look at the bottom right corner ![image](load.png) and wait for it to finish loading.
+Then move onto the next step. 
+
 ## Cloning From Github
 Follow this link [How to Clone Android Project from GitHub in Android Studio?](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
 To have your own copy of the repository on your device. Once you have finished the steps, you may begin coding/designing.
