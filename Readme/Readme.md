@@ -41,10 +41,11 @@ You could also change [image 3](androidToProject.png) to view your files easier.
 Note: You can download github through Android Studio
 
 ## Pulling from Github
-Once you have cloned your repository, you are able to now pull from the main branch to your device.
+Once you have cloned your repository, you are able to now pull from the main branch to your device. 
 In order to that,
 1. Click on Git at the top tool bar [image 4](gitToolBar.png).
-2. Click on "Update Project" to pull it from the main branch.
+2. Click on "Pull..." to pull it from the main branch.
+
 
 ## Pushing to github
 Follow this Link [How to Upload Android Studio Project to GitHub?](https://dev.to/vtsen/how-to-upload-android-studio-project-to-github-4d2#:~:text=To%20push%20your%20files%2C%20click,"Commit%20and%20Push"%20above.)
