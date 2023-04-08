@@ -21,8 +21,7 @@ Once installed
 4. Change the language to "Java." Click "Finish."
 Wait for your android studio to load. Look at the bottom right corner (image) and wait for it to finish loading. ![Image 1](load.png)
 <br />
-The bottom left side should display "Gradle Sync Finished" ![Image 2](GradleSync.png)
-Then move onto the next step. 
+The bottom left side should display "Gradle Sync Finished" (image). Then move onto the next step. ![Image 2](GradleSync.png)
 
 
 
