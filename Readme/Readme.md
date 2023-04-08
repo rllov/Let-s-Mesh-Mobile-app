@@ -35,7 +35,7 @@ but for the project, follow steps below.
 4. Go back to Android Studio and paste the link as the URL.
 5. Click "Clone"
 6. Click on "Trust Project"
-To have your own copy of the repository on your device. Once you have finished the steps, you may begin coding/designing.
+7. Once you have finished the steps, you may begin coding/designing.
 
 ### Note: You can download github through Android Studio
 
