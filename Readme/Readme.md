@@ -48,8 +48,11 @@ In order to that,
 
 
 ## Pushing to github
-Follow this Link [How to Upload Android Studio Project to GitHub?](https://dev.to/vtsen/how-to-upload-android-studio-project-to-github-4d2#:~:text=To%20push%20your%20files%2C%20click,"Commit%20and%20Push"%20above.)
-To learn how to push your own repository to github.
+To push to github
+1. Make sure all files are saved (ctrl + s)
+2. Click on Git at the top tool bar [img 4](gitToolBar.png)
+3. Click on "Push"
+4. 
 
 
 ## Contributing
