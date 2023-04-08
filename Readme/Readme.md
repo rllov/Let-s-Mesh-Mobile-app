@@ -40,6 +40,12 @@ but for the project, follow steps below.
 You could also change [image 3](androidToProject.png) to view your files easier.<br />
 Note: You can download github through Android Studio
 
+## Create a Branch for yourself to Push and pull.
+You can add a branch through the github website or through Android Studio. 
+1. Github Website
+   1. Make sure you are on the project
+   2. Click on [image](gitBranches.png) to display, find, or create branches.
+  
 ## Pulling from Github
 Once you have cloned your repository, you are able to now pull from the main branch to your device. 
 In order to that,
