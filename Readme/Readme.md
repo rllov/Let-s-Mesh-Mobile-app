@@ -41,7 +41,7 @@ You could also change this to view your files easier.<br />![image 3](androidToP
 Note: You can download github through Android Studio
 
 ## Create a Branch for yourself to Push and pull.
-You can add a branch through the github website or through Android Studio. 
+You can add a branch through the github website or through Android Studio. You need to do this once.
 1. Github Website
    1. Make sure you are on the project
    2. Click on image to display, find, or create branches. ![image](gitBranches.png)
@@ -58,6 +58,7 @@ In order to that,
 2. Click on "Pull..." to pull it from the main branch.
 
 
+
 ## Pushing to github
 To push to github
 1. Make sure all files are saved (ctrl + s)
@@ -66,7 +67,9 @@ To push to github
 4. Add a comment of what you changed/ added.
 5. Click on "Commit"
 6. Select your branch
- 
+
+## Merging from different Branches
+1. Make sure your 
 
 ## Contributing
 
