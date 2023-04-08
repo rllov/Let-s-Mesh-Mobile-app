@@ -51,8 +51,9 @@ In order to that,
 To push to github
 1. Make sure all files are saved (ctrl + s)
 2. Click on Git at the top tool bar [img 4](gitToolBar.png)
-3. Click on "Push"
-4. 
+3. Click on "Commit"
+4. Add a comment of what you changed/ added.
+5. Click on "Commit and Push"
 
 
 ## Contributing
