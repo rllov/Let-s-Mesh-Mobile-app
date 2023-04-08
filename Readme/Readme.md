@@ -37,7 +37,8 @@ but for the project, follow steps below.
 6. Click on "Trust Project"
 7. Once you have finished the steps, you may begin coding/designing.
 
-### Note: You can download github through Android Studio
+You could also change [image 3](androidToProject.png) to view your files easier.
+Note: You can download github through Android Studio
 
 ## Pushing to github
 Follow this Link [How to Upload Android Studio Project to GitHub?](https://dev.to/vtsen/how-to-upload-android-studio-project-to-github-4d2#:~:text=To%20push%20your%20files%2C%20click,"Commit%20and%20Push"%20above.)
