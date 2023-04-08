@@ -1,5 +1,4 @@
 ## Let's Mesh
-This is for user 1
 Let's Mesh professional match-making site for Mentors & Educators within various career disciplines to be matched with mentees in search of mentorship.
 
 ## Installation
@@ -22,9 +21,6 @@ Once installed
 Wait for your android studio to load. Look at the bottom right corner (image) and wait for it to finish loading. [Image 1](load.png)
 
 The bottom left side should display "Gradle Sync Finished" (image). Then move onto the next step. [Image 2](GradleSync.png)
-
-
-
 
 ## Cloning From Github
 Follow the instructions on this link [How to Clone Android Project from GitHub in Android Studio?](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
@@ -57,16 +53,16 @@ In order to that,
 1. Click on Git at the top tool bar [image 4](gitToolBar.png).
 2. Click on "Pull..." or "Update Project" to pull it from the main branch.
 
-
-
 ## Pushing to github
 To push to github
 1. Make sure all files are saved (ctrl + s)
-2. Click on Git at the top tool bar [img 4](gitToolBar.png)
+2. Click on Git at the top tool bar [image 4](gitToolBar.png)
 3. Click on "Commit"
 4. Add a comment of what you changed/ added.
 5. Click on "Commit"
-6. Select your branch
+6. Click on Git at the top tool bar [image 4](gitToolBar.png)
+7. Click on "Push..."[image](selectingPushBranch.png)
+8. Select your branch
 
 ## Merging from different Branches
 1. Make sure your 
