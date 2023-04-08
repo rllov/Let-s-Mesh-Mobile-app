@@ -19,8 +19,8 @@ Once installed
 2. Click on "No Activity." 
 3. Rename your application to your preference, preferably something related to the project. 
 4. Change the language to "Java." Click "Finish."
-Wait for your android studio to load. Look at the bottom right corner [Image 1](load.png) and wait for it to finish loading.
-The bottom left side should display "Gradle Sync Finished" [Image 2](GradleSync.png)
+Wait for your android studio to load. Look at the bottom right corner ![Image 1](load.png) and wait for it to finish loading.
+The bottom left side should display "Gradle Sync Finished" ![Image 2](GradleSync.png)
 Then move onto the next step. 
 
 
@@ -37,7 +37,7 @@ but for the project, follow steps below.
 6. Click on "Trust Project"
 7. Once you have finished the steps, you may begin coding/designing.
 
-You could also change [image 3](androidToProject.png) to view your files easier.<br />
+You could also change ![image 3](androidToProject.png) to view your files easier.<br />
 Note: You can download github through Android Studio
 
 ## Create a Branch for yourself to Push and pull.
