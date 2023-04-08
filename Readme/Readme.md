@@ -44,28 +44,28 @@ Note: You can download github through Android Studio
 You can add a branch through the github website or through Android Studio. 
 1. Github Website
    1. Make sure you are on the project
-   2. Click on [image](gitBranches.png) to display, find, or create branches.
+   2. Click on ![image](gitBranches.png) to display, find, or create branches.
    3. You may begin pulling/pushing your repositories
 2. Android Studio
-   1. Click on Git at the top tool bar [image 4](gitToolBar.png)
+   1. Click on Git at the top tool bar ![image 4](gitToolBar.png)
    2. Click on "New Branch..."
    3. Enter a Branch name, preferably your name.
   
 ## Pulling from Github
 Once you have cloned your repository, you are able to now pull from the main branch to your device. 
 In order to that,
-1. Click on Git at the top tool bar [image 4](gitToolBar.png).
+1. Click on Git at the top tool bar ![image 4](gitToolBar.png).
 2. Click on "Pull..." to pull it from the main branch.
 
 
 ## Pushing to github
 To push to github
 1. Make sure all files are saved (ctrl + s)
-2. Click on Git at the top tool bar [img 4](gitToolBar.png)
+2. Click on Git at the top tool bar ![img 4](gitToolBar.png)
 3. Click on "Commit"
 4. Add a comment of what you changed/ added.
-5. Click on "Commit and Push"
-6. ###### Select your branch
+5. Click on "Commit"
+6. Select your branch
  
 
 ## Contributing
