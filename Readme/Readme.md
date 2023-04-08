@@ -45,7 +45,7 @@ Once you have cloned your repository, you are able to now pull from the main bra
 In order to that,
 1. Click on Git at the top tool bar [image 4](gitToolBar.png).
 2. Click on "Pull..." to pull it from the main branch.
-12312312312312412412
+
 
 ## Pushing to github
 To push to github
