@@ -1,7 +1,5 @@
 ## Let's Mesh
 
-Hello
-
 Let's Mesh professional match-making site for Mentors & Educators within various career disciplines to be matched with mentees in search of mentorship.
 
 ## Installation
