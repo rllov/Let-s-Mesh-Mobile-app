@@ -45,15 +45,15 @@ Once you have cloned your repository, you are able to now pull from the main bra
 In order to that,
 1. Click on Git at the top tool bar [image 4](gitToolBar.png).
 2. Click on "Pull..." to pull it from the main branch.
-3. hello
-
+12312312312312412412
 
 ## Pushing to github
 To push to github
 1. Make sure all files are saved (ctrl + s)
 2. Click on Git at the top tool bar [img 4](gitToolBar.png)
-3. Click on "Push"
-4. 
+3. Click on "Commit"
+4. Add a comment of what you changed/ added.
+5. Click on "Commit and Push"
 
 
 ## Contributing
