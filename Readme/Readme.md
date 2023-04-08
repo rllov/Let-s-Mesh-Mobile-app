@@ -19,7 +19,7 @@ Once installed
 2. Click on "No Activity." 
 3. Rename your application to your preference, preferably something related to the project. 
 4. Change the language to "Java." Click "Finish."
-Wait for your android studio to load. Look at the bottom right corner ![Image 1](load.png) and wait for it to finish loading.
+Wait for your android studio to load. Look at the bottom right corner (image) and wait for it to finish loading. ![Image 1](load.png)
 The bottom left side should display "Gradle Sync Finished" ![Image 2](GradleSync.png)
 Then move onto the next step. 
 
@@ -37,14 +37,14 @@ but for the project, follow steps below.
 6. Click on "Trust Project"
 7. Once you have finished the steps, you may begin coding/designing.
 
-You could also change ![image 3](androidToProject.png) to view your files easier.<br />
+You could also change this to view your files easier.<br />![image 3](androidToProject.png)
 Note: You can download github through Android Studio
 
 ## Create a Branch for yourself to Push and pull.
 You can add a branch through the github website or through Android Studio. 
 1. Github Website
    1. Make sure you are on the project
-   2. Click on ![image](gitBranches.png) to display, find, or create branches.
+   2. Click on image to display, find, or create branches. ![image](gitBranches.png)
    3. You may begin pulling/pushing your repositories
 2. Android Studio
    1. Click on Git at the top tool bar ![image 4](gitToolBar.png)
