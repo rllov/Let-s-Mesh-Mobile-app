@@ -17,7 +17,7 @@ you are ready to create your first project.
 ## Pulling From Github
 If this is your first time pulling from Github, select "No Activity" as a new project. Enter a name 
 for the file, preferably something that is notable to this project. Change the Language to "Java."
-![[name](img.png)]
+![[Screenshot](img.png)]
 
 ## Contributing
 
