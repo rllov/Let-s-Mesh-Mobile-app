@@ -30,7 +30,7 @@ Then move onto the next step.
 Follow the instructions on this link [How to Clone Android Project from GitHub in Android Studio?](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
 To have your own copy of the repository on your device. Once you have finished the steps, you may begin coding/designing.
 
-# Note: You can download github through Android Studio
+### Note: You can download github through Android Studio
 
 ## Pushing to github
 Follow this Link [How to Upload Android Studio Project to GitHub?](https://dev.to/vtsen/how-to-upload-android-studio-project-to-github-4d2#:~:text=To%20push%20your%20files%2C%20click,"Commit%20and%20Push"%20above.)
