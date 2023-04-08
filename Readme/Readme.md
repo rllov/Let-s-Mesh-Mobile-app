@@ -18,7 +18,7 @@ you are ready to create your first project.
 If this is your first time pulling from Github, select "No Activity" as a new project. Enter a name 
 for the file, preferably something that is notable to this project. Change the Language to "Java."
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat 
-smiling and raising a tentacle.](img.png)
+smiling and raising a tentacle.](Readme/img.png)
 
 
 ## Contributing
