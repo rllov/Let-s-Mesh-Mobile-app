@@ -19,9 +19,9 @@ Once installed
 2. Click on "No Activity." 
 3. Rename your application to your preference, preferably something related to the project. 
 4. Change the language to "Java." Click "Finish."
-Wait for your android studio to load. Look at the bottom right corner [Image 1](load.png) and wait for it to finish loading.
-The bottom left side should display "Gradle Sync Finished" [Image 2](GradleSync.png)
-Then move onto the next step. 
+Wait for your android studio to load. Look at the bottom right corner (image) and wait for it to finish loading. [Image 1](load.png)
+
+The bottom left side should display "Gradle Sync Finished" (image). Then move onto the next step. [Image 2](GradleSync.png)
 
 
 
@@ -37,14 +37,14 @@ but for the project, follow steps below.
 6. Click on "Trust Project"
 7. Once you have finished the steps, you may begin coding/designing.
 
-You could also change [image 3](androidToProject.png) to view your files easier.<br />
+You could also change this to view your files easier.<br />[image 3](androidToProject.png)
 Note: You can download github through Android Studio
 
 ## Create a Branch for yourself to Push and pull.
-You can add a branch through the github website or through Android Studio. 
+You can add a branch through the github website or through Android Studio. You need to do this once.
 1. Github Website
    1. Make sure you are on the project
-   2. Click on [image](gitBranches.png) to display, find, or create branches.
+   2. Click on image to display, find, or create branches. [image](gitBranches.png)
    3. You may begin pulling/pushing your repositories
 2. Android Studio
    1. Click on Git at the top tool bar [image 4](gitToolBar.png)
@@ -58,15 +58,18 @@ In order to that,
 2. Click on "Pull..." to pull it from the main branch.
 
 
+
 ## Pushing to github
 To push to github
 1. Make sure all files are saved (ctrl + s)
 2. Click on Git at the top tool bar [img 4](gitToolBar.png)
 3. Click on "Commit"
 4. Add a comment of what you changed/ added.
-5. Click on "Commit and Push"
-6. ###### Select your branch
- 
+5. Click on "Commit"
+6. Select your branch
+
+## Merging from different Branches
+1. Make sure your 
 
 ## Contributing
 
