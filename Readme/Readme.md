@@ -56,11 +56,13 @@ In order to that,
 ## Pushing to github
 To push to github
 1. Make sure all files are saved (ctrl + s)
-2. Click on Git at the top tool bar [img 4](gitToolBar.png)
+2. Click on Git at the top tool bar [image 4](gitToolBar.png)
 3. Click on "Commit"
 4. Add a comment of what you changed/ added.
 5. Click on "Commit"
-6. Select your branch
+6. Click on Git at the top tool bar [image 4](gitToolBar.png)
+7. Click on "Push..."[image](selectingPushBranch.png)
+8. Select your branch
 
 ## Merging from different Branches
 1. Make sure your 
