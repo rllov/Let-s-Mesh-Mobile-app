@@ -28,7 +28,14 @@ Then move onto the next step.
 
 ## Cloning From Github
 Follow the instructions on this link [How to Clone Android Project from GitHub in Android Studio?](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
-Use this [Project Link](https://github.com/rllov/LetsMeshProject.git) as the URL. To have your own copy of the repository on your device. Once you have finished the steps, you may begin coding/designing.
+but for the project, follow steps below.
+1. Click on this [Project Link](https://github.com/rllov/LetsMeshProject.git).
+2. Click on the green <>Code button.
+3. Copy the Link.
+4. Go back to Android Studio and paste the link as the URL.
+5. Click "Clone"
+6. Click on "Trust Project"
+To have your own copy of the repository on your device. Once you have finished the steps, you may begin coding/designing.
 
 ### Note: You can download github through Android Studio
 
