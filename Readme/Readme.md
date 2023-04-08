@@ -65,7 +65,7 @@ To push to github
 3. Click on "Commit"
 4. Add a comment of what you changed/ added.
 5. Click on "Commit and Push"
-6. ### Select your branch
+6. ###### Select your branch
  
 
 ## Contributing
