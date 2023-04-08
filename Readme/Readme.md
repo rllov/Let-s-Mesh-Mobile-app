@@ -16,7 +16,8 @@ you are ready to create your first project.
 
 Once installed, click on "New Project." Then click on "No Activity." Rename your application to your 
 preference, preferably something related to the project. Change the language to "Java." Click "Finish."
-Wait for your android studio to load. Look at the bottom right corner ![image](load.png) and wait for it to finish loading.
+Wait for your android studio to load. Look at the bottom right corner ![[image](load.png)] and wait for it to finish loading.
+The bottom left side should display "Gradle Sync Finished"![[image](GradleSync.png)]
 Then move onto the next step. 
 
 ## Cloning From Github
