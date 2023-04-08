@@ -55,7 +55,7 @@ You can add a branch through the github website or through Android Studio. You n
 Once you have cloned your repository, you are able to now pull from the main branch to your device. 
 In order to that,
 1. Click on Git at the top tool bar [image 4](gitToolBar.png).
-2. Click on "Pull..." to pull it from the main branch.
+2. Click on "Pull..." or "Update Project" to pull it from the main branch.
 
 
 
