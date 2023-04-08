@@ -37,7 +37,7 @@ but for the project, follow steps below.
 6. Click on "Trust Project"
 7. Once you have finished the steps, you may begin coding/designing.
 
-You could also change this to view your files easier.<br />[image 3](androidToProject.png)
+You could also change this to view your files easier.<br /> [image 3](androidToProject.png)
 Note: You can download github through Android Studio
 
 ## Create a Branch for yourself to Push and pull.
