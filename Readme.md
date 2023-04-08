@@ -69,6 +69,6 @@ To push to github
 ## Contributing
 
 Pull and Cloning requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change. When pushing back to 
+to discuss what you would like to change.
 
 
